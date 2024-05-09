@@ -84,9 +84,9 @@
     padding: 12px;
 }
 
-/* DENID */
+/* denied */
 
-.denid-status {
+.denied-status {
     width: 50px;
     height: 50px;
     background-color: #D60000;
@@ -97,7 +97,7 @@
     color: white;
 }
 
-.denid-notification {
+.denied-notification {
     margin: 20px;
     background-color: #FFB9B9;
     border: 1px solid #D60000;
